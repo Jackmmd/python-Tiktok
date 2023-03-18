@@ -10,3 +10,5 @@ for i in range(len(mi_list)):
     mi_list[indexMin]=aux
     print(mi_list)
 print(f'Mi lista ordenada es : {mi_list}')
+
+
